@@ -2,20 +2,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 ## Hi, I'm Dominique Vieira || Olá, eu sou a Dominique Vieira
 
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/77897963/212151102-97d576a2-efb6-4f1d-bb5e-f2fd0aa985a7.png" alt="My Octocat" />
 
-- 🔭 I’m currently looking for a job
+- 🔭 I’m looking for a job
 - 🌱 I’m currently learning Java, SpringBoot, SQL
 - 💞️ I'm looking to collaborate on every work involving Java and SpringBoot!
 
-
-<!--
-<div align="center">
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dominiquekv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
--->
+<br>
 
 
-## Contact
+
+### Contact
 
 <p align="left">
   <a href="mailto:dominiquekv18@gmail.com">
