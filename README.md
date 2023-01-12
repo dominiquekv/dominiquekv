@@ -5,7 +5,7 @@
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/77897963/212151102-97d576a2-efb6-4f1d-bb5e-f2fd0aa985a7.png" alt="My Octocat" />
 
 - 🔭 I’m looking for a job
-- 🌱 I’m currently learning Java, SpringBoot, SQL
+- 🌱 I’m currently learning __Java__, __SpringBoot__, __SQL__
 - 💞️ I'm looking to collaborate on every work involving Java and SpringBoot!
 
 <br>
