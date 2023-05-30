@@ -1,9 +1,10 @@
 
-## <p style="text-align: center;">Hi, I'm Dominique Vieira!</p>
+## Dominique Vieira
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/77897963/212151102-97d576a2-efb6-4f1d-bb5e-f2fd0aa985a7.png" alt="My Octocat" />
 
-<p style="text-align: center;">I'm a Software Developer</p>
+<p style="text-align: center;">I'm a Software Developer, studying and exploring technologies to develop solutions.</p>
+
 
 <br>
 
