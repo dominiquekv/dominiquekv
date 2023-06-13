@@ -1,11 +1,10 @@
 
-## Dominique Vieira
+## Olá, eu sou a Dominique!
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/77897963/212151102-97d576a2-efb6-4f1d-bb5e-f2fd0aa985a7.png" alt="My Octocat" />
 
-- 💙 I'm a FullStack Developer, studying and exploring technologies to develop better solutions.
-- 🔭 I'm currently looking for a job.
-- 🎓 Technology degree in systems analysis and development.
+- 🔭 Atualmente estou trabalhando como Desenvolvedora Full Stack Freelancer.
+- 💻 Tenho interesse em Java, SQL, desenvolvimento web e novas tecnologias!
 
 
 <br><br>
